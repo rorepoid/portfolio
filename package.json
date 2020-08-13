@@ -22,6 +22,7 @@
   "homepage": "https://github.com/rorepoid/rorepoid.github.io#readme",
   "dependencies": {
     "gatsby": "^2.24.37",
+    "gatsby-plugin-postcss": "^2.3.11",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
